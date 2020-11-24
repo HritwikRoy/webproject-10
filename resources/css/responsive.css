@@ -1,0 +1,67 @@
+@media screen and (max-width:36rem) {
+    nav {
+        height: 36.3rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    h1 a {
+        font-size: 8rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    html {
+        font-size: 16.5%;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    footer {
+        height: 69vh;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .footer-box img {
+        width: 76rem;
+        height: 37rem;
+        margin-bottom: 5rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .footer-box ul {
+        padding-left: 46rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .footer-box1 p {
+        padding-left: 46rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .footer-box1 input {
+        margin-left: 45.5rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .footer-box1 button {
+        margin-left: 45.5rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .foot-end p {
+        margin-top: 7rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .foot-end h2 {
+        margin-top: 7rem;
+    }
+}
